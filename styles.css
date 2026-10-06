@@ -1,7 +1,8 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #100f24ff;
+  background: #0d124aff;
+
   color: #f7f4fdff;
 }
 
@@ -60,4 +61,28 @@ img {
   height: 200px;
   width: 200px;
   object-fit: cover;
+}
+
+#tour-guide-section {
+  display: flex;
+  padding: 5rem;
+  align-self: center;
+  gap: 2rem;
+  background-color: #fde6faff;
+  color: #0d124aff;
+  max-width: 500px;
+  margin: 3rem;
+  border-radius: 2rem;
+  text-align: center;
+}
+
+#tour-guide-img {
+  height: 400px;
+  width: 300px;
+  border-radius: 50%;
+  border: 5px solid #5f62b7ff;
+}
+
+#guide-heading {
+  font-size: 30px;
 }
