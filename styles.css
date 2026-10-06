@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #100f24ff;
+  color: #f7f4fdff;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+#hero-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url("./assets/Startorch_Academy.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 400px;
+}
+
+#main-heading {
+  color: #0d124aff;
+  font-size: 70px;
+  text-shadow: 0 0 6px white;
+}
+#main-para {
+  font-size: 35px;
+  text-shadow: 0 0 6px white;
+  color: #0d124aff;
+  font-weight: 600;
+}
+
+#activities-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #5f62b7ff;
+  padding: 1rem;
+}
+
+.activity-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  text-align: center;
+}
+.content-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
