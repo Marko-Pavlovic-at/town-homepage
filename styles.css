@@ -87,3 +87,43 @@ img {
 #guide-heading {
   font-size: 30px;
 }
+
+#roya-frostlands {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.roya-img {
+  height: 500px;
+  width: 500px;
+}
+
+.roya-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem;
+}
+
+#thank-you {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.thank-img {
+  height: 300px;
+  width: 300px;
+}
+
+img {
+  opacity: 50%;
+}
+
+img:hover {
+  opacity: 100%;
+}
