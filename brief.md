@@ -2,32 +2,26 @@
 
 ## Requirements
 
-- Hero Section with a background Image a Heading and a Description
-- An Activities Section
-- an Guide Tour Section
-- CSS used : Classes flexbox background-image
+- [x] Hero Section with a background Image a Heading and a Description
+- [x] An Activities Section
+- [x] an Guide Tour Section
+- [x] CSS used : Classes flexbox background-image
 
 ## Stretch Goals
 
-- add a google font
-- use hover
-- add new sections
+- [ ] add a google font
+- [ ] use hover
+- [ ] add new sections
 
-Steps:
+## Steps
 
-1. Build HTML Structure
-
-2. Basic CSS
-
-3. Style each Section
-
-4. Add Google Font
-
-5. add 2 additional Sections
-
-6. add hover effects
-
-7. deploy
+1. [x] Build HTML Structure
+2. [x] Basic CSS
+3. [x] Style each Section
+4. [ ] Add Google Font ← **Next**
+5. [ ] add 2 additional Sections
+6. [ ] add hover effects
+7. [ ] deploy
 
 ---
 
